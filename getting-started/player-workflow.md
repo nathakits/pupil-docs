@@ -6,7 +6,7 @@ page_weight = 2
 +++
 
 ## Player Workflow
-Use Pupil Player to visualize data recorded with Pupil Capture and export videos of visualization and datasets for further analysis. 
+Use Pupil Player to visualize data recorded with Pupil Capture and export videos of visualization and datasets for further analysis.
 
 ### 1. Open Pupil Player
 
@@ -14,7 +14,7 @@ Use Pupil Player to visualize data recorded with Pupil Capture and export videos
 
 Now that you have recorded some data, you can play back the video and visualize gaze data, marker data, and more.
 
-#### Visualize
+### 2. Visualize
 
 Player comes with a number of plugins. Plugins are classified by their use-case. Visualization plugins can be additive. This means that you can add multiple instances of a plugin to build up a visualization.
 
@@ -26,4 +26,4 @@ Player comes with a number of plugins. Plugins are classified by their use-case.
 
 Exports are saved within a dedicated folder named `exports` within the original recording folder.
 
-Each export is contained within a folder within the `exports` folder. The numbers of the export correlate to the trim marks (frame start and frame end) for the export.  
+Each export is contained within a folder within the `exports` folder. The numbers of the export correlate to the trim marks (frame start and frame end) for the export.

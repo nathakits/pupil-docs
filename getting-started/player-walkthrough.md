@@ -2,7 +2,7 @@
 date = "2017-01-19T12:24:57+07:00"
 title = "player demo"
 section_weight = 1
-page_weight = 4
+page_weight = 5
 +++
 
 ## Pupil Player Demo Video
